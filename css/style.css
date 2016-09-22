@@ -34,7 +34,8 @@ body {
 }
 #about .about {
 	background-color: #fff;
-	box-shadow: 2px 2px 3px #ccc;
+	/*box-shadow: 2px 2px 3px #ccc;*/
+	padding:0 35px;
 }
 #about h3 {
 	color: #333;
